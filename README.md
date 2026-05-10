@@ -2,6 +2,9 @@
 
 战国题材网页策略游戏 MVP，原创"战国竹简纸卷风 roguelike 策略界面"。
 
+🎮 **在线试玩**：https://warring-states-game.vercel.app  
+📦 **GitHub**：https://github.com/Tina2088/warring-states-game
+
 ## 项目定位
 - 单机网页策略游戏，不需联网、不需登录、不需后端
 - localStorage 存档
